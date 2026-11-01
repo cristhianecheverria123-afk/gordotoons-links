@@ -1,5 +1,5 @@
 {
-  "version": 2.04,
+  "version": 2.05,
   "updated": "2026-10-31",
   "sites": {
     "cardOlympus": ["https://olympusbiblioteca.com/"],
@@ -248,7 +248,10 @@
         "landing.hentaiprosnetwork.com",
         "francegave.com"
       ],
-      "cardMangaVault": []
+      "cardMangaVault": [
+        "n6wxm.com",
+        "nap5k.com"
+      ]
     },
     "permitir": []
   }
