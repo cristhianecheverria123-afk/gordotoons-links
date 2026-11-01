@@ -1,5 +1,5 @@
 {
-  "version": 2.02,
+  "version": 2.03,
   "updated": "2026-10-31",
   "sites": {
     "cardOlympus": ["https://olympusbiblioteca.com/"],
@@ -33,5 +33,39 @@
     "cardDoramAsia": ["https://doramasia.com/"],
     "cardDoramasEnLatino": ["https://doramaslatinox.com/"],
     "cardLiveActions": ["https://asialiveaction.com/"]
+  },
+  "bloqueo": {
+    "global": [
+      "juicyads.com",
+      "adcash.com",
+      "clickadu.com",
+      "hilltopads.net",
+      "monetag.com",
+      "richads.com",
+      "trafficjunky.com",
+      "a-ads.com",
+      "adspyglass.com",
+      "ero-advertising.com",
+      "profitableratecpm.com",
+      "profitablegatecpm.com",
+      "exosrv.com",
+      "realsrv.com",
+      "mgid.com",
+      "adskeeper.com",
+      "bidvertiser.com",
+      "yllix.com",
+      "propu.sh",
+      "pushance.com",
+      "onclickads.net"
+    ],
+    "porSitio": {
+      "cardMangaVault": [],
+      "cardOlympus": [],
+      "cardhitomi": [],
+      "cardCuevana": [],
+      "cardDoramasEnLatino": []
+    },
+    "permitir": []
   }
+  
 }
