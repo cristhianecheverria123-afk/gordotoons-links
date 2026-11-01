@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updated": "2026-10-31",
   "sites": {
     "cardOlympus": ["https://olympusbiblioteca.com/"],
@@ -7,7 +7,7 @@
     "cardNineMangas": ["https://es.ninemanga.com/list/Hot-Book/"],
     "cardZonaMiau": ["https://leemiau.com/"],
     "cardManhwaweb": ["https://manhwaweb.com/"],
-    "cardIkigai": ["https://visualikigai.cmpunjabrashancard.pk/"],
+    "cardIkigai": ["https://olympusxyz.com/"],
     "cardMangaplus": ["https://mangaplus.shueisha.co.jp/updates"],
     "cardNovelcool": ["https://es.novelcool.com/"],
     "cardhitomi": ["https://hitomi.la/"],
